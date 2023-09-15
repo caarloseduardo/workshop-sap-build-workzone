@@ -1,7 +1,7 @@
 # Hands-On - SAP Build Work Zone Standard Edition
 
 ## Descrição
-Nesse workshop será realizdo a criação de um site utilizando o SAP Build Work Zone Standard Edition, consumindo sistemas SAP S/4HANA e adicionando aplicações SAP Fiori personalizadas ao site, junto da apresentação do site no SAP Mobile Start. 
+Nesse workshop será realizdo a criação de um site utilizando o SAP Build Work Zone Standard Edition, adicionando aplicações SAP Fiori personalizadas ao site, junto da apresentação do site no SAP Mobile Start. 
 
 Documentação da SAP sobre SAP Build Workzone Standard Edition:
 https://help.sap.com/docs/build-work-zone-standard-edition
