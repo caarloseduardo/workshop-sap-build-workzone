@@ -28,7 +28,7 @@
 6. Preencha os seguintes campos com os valores:
   * **Subtitle**: `Carrinho de compras`
   * **Information**: `Compre  agora!`
-  * **Icon**: `Compre  agora!`
+  * **Icon**: `my-sales-order`
   ![Visualization Configurations](images/img07.png)
     > Na direita, você pode ver a pré-visualização de como ficará sua aplicação no WorkZone. Após isso, clique no botão **"Save"**.
 
