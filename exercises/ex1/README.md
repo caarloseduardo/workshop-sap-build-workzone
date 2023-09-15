@@ -10,15 +10,12 @@ Bem Vindo! Ao acessar o Lobby do SAP Build Work Zone você tem acesso para criar
 
 ### Primeiro passo: Criação do site
 1. Dentro do **diretório de sites (Site Directory)** do Work Zone, vamos iniciar nosso processo de desenvolvimento clicando no botão **Create Site**.
-  <br>
   ![Create Site](images/img01.png)
 
 2. Nessa modal, colocaremos o nome do nosso site como **"HandsOn_Work_Zone_[Nome]"**, e vamos clicar em **Create**. 
-  <br>
   ![Site name](images/img02.png)
 
 3. Ao criar o site, você será redirecionado para as **configurações do site (Site Settings)**, onde você pode editar as configurações e atribuir permissões para o site. Navegue de volta para o **diretório de sites** para ver a criação de seu site.
-  <br>
   ![Navigate Back](images/img03.png)
   ![Site Directory](images/img04.png)
 
