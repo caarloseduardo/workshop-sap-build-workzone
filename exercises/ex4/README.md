@@ -23,7 +23,6 @@
   ![Fiori Apps](images/img05.png)
 
 5. Adicionar nosso novo grupo na role **"Everyone"**.
-  <br>
   ![Add to Everyone](images/img06.png)
 
 > Pronto, podemos verificar o nosso novo grupo como **"Fiori Apps"** no site.
