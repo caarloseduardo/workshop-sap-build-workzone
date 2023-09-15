@@ -71,7 +71,7 @@
 9. Em **"Fiori Launchpad Configuration"**, preencha os seguintes valores:
     | Step | Parameter | Value |
     |:-----|:----------|:------|
-    | A | Module name | **`hands-on`** |
+    | A | Module name | **`handson`** |
     | B | Application title | **Hands On** |
     | C | Application namespace | **workzone** |
     | D | Description | **A Fiori application.** |

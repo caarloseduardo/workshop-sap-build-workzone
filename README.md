@@ -31,3 +31,4 @@ https://dev-amazon-web-services-ncm543yw.dt.launchpad.cfapps.us10.hana.ondemand.
 - [Exercício 01 - Criação do site com SAP Build Work Zone](exercises/ex1/README.md)
 - [Exercício 02 - Adicionar um App SAPUI5 no seu site](exercises/ex2/README.md)
 - [Exercício 03 - Adicionar um App Fiori do BAS](/exercises/ex3/README.md)
+- [Exercício 04 - Adicionar um App Fiori no Work Zone](/exercises/ex4/README.md)
